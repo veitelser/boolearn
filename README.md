@@ -23,7 +23,7 @@ Instead of minimizing a loss, boolearn minimizes the distance between pairs of p
 
 For details, see [*Learning with Boolean threshold functions*](https://arxiv.org/abs/2602.17493) (*LWBTF*) by Elser & Lal.
 
-**Note:** boolearn is research software, intentionally CLI-first and designed for reproducible scientific workflows. It is released to support open scientific research. We ask that derivative uses preserve attribution and respect its research-oriented intent.
+**Note:** boolearn is research software, intentionally CLI-first and designed for reproducible scientific workflows. It is released to support open scientific research. 
 
 ## Quickstart
 
